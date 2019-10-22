@@ -44,3 +44,4 @@ int query(int id,int s,int e,int l,int r){
     }
 }
 
+
